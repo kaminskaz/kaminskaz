@@ -23,8 +23,10 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
 - **[Cooking Blog](https://github.com/yourgithubusername/cooking-blog)** – A Django-based web application for sharing and discovering delicious recipes  
   *Technologies: Django, HTML, CSS, XML, XLS*
   
-- **[Image Processing App](https://github.com/yourgithubusername/biometria-projekt1)** – A PyQt6-based desktop application for editing images through pixel operations, without using advanced image processing libraries.  
-  *Technologies: PyQt6, opencv-python, numpy, matplotlib*  
+- **[Image Processing App](https://github.com/yourgithubusername/biometria-projekt1)** – A PyQt6-based application for editing images through pixel operations, without using advanced image processing libraries.  
+  *Technologies: PyQt6, opencv-python, numpy, matplotlib*
+- **[Audio Analyzer](https://github.com/kaminskaz/dzwiek_projekt1)** - A PyQt6-based desktop application that enables a detailed analysis of sounds in the .wav format, focusing on extracting audio signal features in the time domain.
+  *Technologies: PyQt, Librosa, Numpy, Pandas, Seaborn, Matplotlib*
  
 - **[Personal Data Generator](https://github.com/kaminskaz/Artificial-Data-Generator)** – A Java-based application designed for generating synthetic personal datasets, including gender, name, age, and more. It integrates various features such as data importing, saving, and GUI management.  
   *Technologies: Java, Apache POI, Swing*  
