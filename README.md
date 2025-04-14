@@ -20,10 +20,10 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
     *Technologies: Python, Scikit-learn, XGBoost, PCA, Logistic Regression, NumPy, Seaborn, Matplotlib* 
 
 ### 🔢 Other Apps
-- **[Cooking Blog](https://github.com/yourgithubusername/cooking-blog)** – A Django-based web application for sharing and discovering delicious recipes  
+- **[Cooking Blog](https://github.com/kaminskaz/cooking-blog)** – A Django-based web application for sharing and discovering delicious recipes  
   *Technologies: Django, HTML, CSS, XML, XLS*
   
-- **[Image Processing App](https://github.com/yourgithubusername/biometria-projekt1)** – A PyQt6-based application for editing images through pixel operations, without using advanced image processing libraries.  
+- **[Image Processing App](https://github.com/kaminskaz/biometria-projekt1)** – A PyQt6-based application for editing images through pixel operations, without using advanced image processing libraries.  
   *Technologies: PyQt6, opencv-python, numpy, matplotlib*
 - **[Audio Analyzer](https://github.com/kaminskaz/dzwiek_projekt1)** - A PyQt6-based desktop application that enables a detailed analysis of sounds in the .wav format, focusing on extracting audio signal features in the time domain.
   *Technologies: PyQt, Librosa, Numpy, Pandas, Seaborn, Matplotlib*
