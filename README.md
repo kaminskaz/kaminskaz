@@ -29,7 +29,7 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
   
 - **[Image Processing App](https://github.com/kaminskaz/obrazy)** – A PyQt6-based application for editing images through pixel operations, without using advanced image processing libraries.  
   *Technologies: PyQt6, opencv-python, numpy, matplotlib*
-- **[Audio Analyzer](https://github.com/kaminskaz/dzwiek_projekt1), [Audio Analyzer 2](https://github.com/kaminskaz/dzwiek2)** - PyQt6-based desktop applications that enable a detailed analysis of sounds in the .wav format, focusing on extracting audio signal features in the time domain and frequency domain respectively.
+- **[Audio Analyzer](https://github.com/kaminskaz/dzwiek_projekt1), [Audio Analyzer 2](https://github.com/kaminskaz/dzwiek2), [Audio Analyzer 3](https://github.com/kaminskaz/dzwiek3)** - PyQt6-based desktop applications that enable a detailed analysis of sounds in the .wav format, focusing on extracting audio signal features in the time domain and frequency domain respectively. The Audio Analyzer 3 focuses on speech recognition and speaker verification.
   *Technologies: PyQt, Librosa, Numpy, Pandas, Seaborn, Matplotlib*
  
 - **[Personal Data Generator](https://github.com/kaminskaz/Artificial-Data-Generator)** – A Java-based application designed for generating synthetic personal datasets, including gender, name, age, and more. It integrates various features such as data importing, saving, and GUI management.  
