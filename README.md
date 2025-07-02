@@ -13,13 +13,15 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
 - **[KomunikacJA](https://github.com/kaminskaz/ProjektJA-KomunikacJA)** – An application analyzing social media data  
   *Technologies: R, Dplyr, Tidyr, Stringr, Plotly, Wordcloud2, Tidyverse* 
 
-### 🔬 Research Projects  
+### 🔬 Research Projects  (ML, Deep Learning)
 - **[SparseConvMIL for Breast Cancer Classification](https://github.com/kaminskaz/Warsztaty-badawcze-public)** – Applying SparseConvMIL for tumor classification  
     *Technologies: Python, PyTorch, Deep Learning, Pandas, NumPy, Torchvision, Pillow, Scikit-learn* 
 - **[Hyperparameter Tuning in ML Algorithms](https://github.com/DeptuchMateusz/2024Z-AutoML/tree/main/projects/project1/329822_327271_327269)** – Analyzing hyperparameter tunability in selected ML models  
     *Technologies: Python, Scikit-learn, XGBoost, PCA, Logistic Regression, NumPy, Seaborn, Matplotlib*
 - **[Local Image Augmentation in Deep Learning](https://github.com/kaminskaz/Projekt-Interdyscyplinarny)** – A project exploring local, segment-based image augmentation for visual classification tasks  
     *Technologies: Deep Learning, Python, PyTorch, Torchvision, Albumentations, OpenCV, NumPy, Pandas, Matplotlib, Pillow, Scikit-learn*
+- **[Critical Layers in Vision Transformers via Logit Lens](https://github.com/kaminskaz/wb-projekt)** – Extending the logit lens method to Vision Transformers to identify key layers in CLIP and DINO models
+    *Technologies: Python, PyTorch, Torchvision, NumPy, Pandas, Matplotlib, Seaborn, Pillow, SciPy, CLIP, TIMM*
 
 ### 🔢 Other Apps
 - **[Cooking Blog](https://github.com/kaminskaz/cooking-blog)** – A Django-based web application for sharing and discovering delicious recipes  
