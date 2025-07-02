@@ -9,12 +9,6 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
 - **[Movie Recommendation App](https://github.com/kaminskaz/PROJEKT2_ML_klasteryzacja)** – A recommendation system for movies  
   *Technologies: Python, Pandas, NumPy, Scikit-learn, K-Means, PCA, Seaborn, Matplotlib*
 
-### 📊 Data Visualization  
-- **[KomunikacJA](https://github.com/kaminskaz/ProjektJA-KomunikacJA)** – An application analyzing social media data  
-  *Technologies: R, Dplyr, Tidyr, Stringr, Plotly, Wordcloud2, Tidyverse*
-- **[Cheese Consumption Analysis](https://github.com/michalwietecki/cheese-consumption-analysis)** – A poster created for a data analysis project exploring trends in cheese consumption using R and data visualization  
-  *Technologies: R, ggplot2, dplyr*
-
 ### 🔬 Research Projects  (ML, Deep Learning)
 - **[SparseConvMIL for Breast Cancer Classification](https://github.com/kaminskaz/Warsztaty-badawcze-public)** – Applying SparseConvMIL for tumor classification  
     *Technologies: Python, PyTorch, Deep Learning, Pandas, NumPy, Torchvision, Pillow, Scikit-learn* 
@@ -24,6 +18,12 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
     *Technologies: Deep Learning, Python, PyTorch, Torchvision, Albumentations, OpenCV, NumPy, Pandas, Matplotlib, Pillow, Scikit-learn*
 - **[Critical Layers in Vision Transformers via Logit Lens](https://github.com/kaminskaz/wb-projekt)** – Extending the logit lens method to Vision Transformers to identify key layers in CLIP and DINO models  
     *Technologies: Python, PyTorch, Torchvision, NumPy, Pandas, Matplotlib, Seaborn, Pillow, SciPy, CLIP, TIMM*
+
+### 📊 Data Visualization  
+- **[KomunikacJA](https://github.com/kaminskaz/ProjektJA-KomunikacJA)** – An application analyzing social media data  
+  *Technologies: R, Dplyr, Tidyr, Stringr, Plotly, Wordcloud2, Tidyverse*
+- **[Cheese Consumption Analysis](https://github.com/michalwietecki/cheese-consumption-analysis)** – A poster created for a data analysis project exploring trends in cheese consumption using R and data visualization  
+  *Technologies: R, ggplot2, dplyr*
 
 ### 🔢 Other Apps
 - **[Cooking Blog](https://github.com/kaminskaz/cooking-blog)** – A Django-based web application for sharing and discovering delicious recipes  
