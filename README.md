@@ -1,11 +1,16 @@
 ## Hi there 👋
-I'm a third-year Data Science student at Warsaw University of Technology, passionate about machine learning, data analysis, and software development. Here are some of my projects, many of which were developed as part of my academic journey. Feel free to look around!
+I'm a fourth-year Data Science student at Warsaw University of Technology, passionate about machine learning and data analysis. Here are some of my projects, many of which were developed as part of my academic journey. Feel free to look around!
 
 ## 📌 Projects  
-
+### 🧠 Engineering Thesis
+**Title:** Integration of Solution Strategies for Visual Analogy Problems using Vision-Language Models
+- **[IQ-Bench](https://github.com/kaminskaz/iqbench)** - A modular Python package designed to streamline the evaluation of Vision Language Models (VLMs) on visual analogy tasks
+  *Technologies: Python, Google Colab, vLLM, PyTorch, Torchvision, Pandas, NumPy, Scikit-learn, Seaborn, Streamlit* 
 ### 🤖 Machine Learning  
 - **[MedAId](https://github.com/DeptuchMateusz/medAId)** – A Python package for analyzing tabular data  
-  *Technologies: Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, DTreeViz, SHAP, Lime, SuperTree, TQDM, HTML* 
+  *Technologies: Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, DTreeViz, SHAP, Lime, SuperTree, TQDM, HTML*
+- **[Unlabeled-Log-Reg](https://github.com/kaminskaz/AML_project1)** – Analysis of logistic regression on partially unlabeled data using FISTA algorithm  
+  *Technologies: Python, Logistic Regression, Pandas, NumPy, Scikit-learn*
 - **[Movie Recommendation App](https://github.com/kaminskaz/PROJEKT2_ML_klasteryzacja)** – A recommendation system for movies  
   *Technologies: Python, Pandas, NumPy, Scikit-learn, K-Means, PCA, Seaborn, Matplotlib*
 
@@ -18,6 +23,8 @@ I'm a third-year Data Science student at Warsaw University of Technology, passio
     *Technologies: Deep Learning, Python, PyTorch, Torchvision, Albumentations, OpenCV, NumPy, Pandas, Matplotlib, Pillow, Scikit-learn*
 - **[Critical Layers in Vision Transformers via Logit Lens](https://github.com/kaminskaz/wb-projekt)** – Extending the logit lens method to Vision Transformers to identify key layers in CLIP and DINO models  
     *Technologies: Python, PyTorch, Torchvision, NumPy, Pandas, Matplotlib, Seaborn, Pillow, SciPy, CLIP, TIMM*
+- **[Investigation of CNN Architectures for Image Classification](https://github.com/kaminskaz/deep_learning)** – Investigation of convolutional neural network architectures   
+    *Technologies: Python, Google Colab, PyTorch, Torchvision, Scikit-learn, Numpy, Pillow*
 
 ### 📊 Data Visualization  
 - **[KomunikacJA](https://github.com/kaminskaz/ProjektJA-KomunikacJA)** – An application analyzing social media data  
